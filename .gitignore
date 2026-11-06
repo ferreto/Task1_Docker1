@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated files
+video/
+uploads/
+videos.db
+*.webm
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Docker (необязательно, но полезно)
+*.log
